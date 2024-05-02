@@ -1,0 +1,11 @@
+{
+  "name": "Wazuh Agent",
+  "version": "1.0",
+  "slug": "wazuh-agent",
+  "description": "This add-on starts Wazuh agent on boot.",
+  "arch": ["amd64", "armhf", "armv7", "aarch64"],
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
