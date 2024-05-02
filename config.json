@@ -1,0 +1,10 @@
+{
+  "name": "Wazuh Agent",
+  "version": "1.0",
+  "slug": "wazuh-agent",
+  "description": "Run Wazuh agent",
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
